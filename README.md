@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luciano!
 
-<!--
-**Luciano-200/Luciano-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em back-end, com experiência em Node.js, TypeScript e PostgreSQL. Tenho criatividade e gosto do que faço. Procurar soluções é desafiador, mas satisfatório de conseguir, isso é o que me motiva. Sou do Rio Grande do Sul, Caxias do Sul. 
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- TypeScript
+- Express
+- PostgreSQL
+
+## 📫 Contato
+
+- Email: luciano.criativoagora@gmail.com
