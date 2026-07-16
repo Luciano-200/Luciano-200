@@ -22,4 +22,4 @@ Sou desenvolvedor focado em back-end, com experiência em Node.js, TypeScript e 
 
 ## ⚙️ Contato
 
-- Email: luciano.criativoagora@gmail.com
+- Email: lucianopiresmachado379@gmail.com
